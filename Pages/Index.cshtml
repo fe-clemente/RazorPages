@@ -1,0 +1,33 @@
+﻿@page
+@model IndexModel // cshtml juncao de c# com html
+@{
+    ViewData["Title"] = "Home Page"; 
+}
+   
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core"></a></p>     
+        <table>
+            <thead>
+                <tr>
+                    <td>Id</td>
+                    <td>Title</td>    
+                    <td>Price</td>             
+                    </tr>
+            </thead>
+            <tbody>
+                @foreach (var Category in @Model.Categories)
+                {  <tr>
+                    <td>@category.id</td>
+                    <td>@category.Title</td>
+                    <td>@category.Price</td>
+                </tr>
+               }               
+            </tbody>
+        </table>    
+</div>
+
+
+
+
+

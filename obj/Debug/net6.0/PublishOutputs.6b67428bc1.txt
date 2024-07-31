@@ -1,0 +1,7 @@
+C:\Users\fe-cl\OneDrive\Área de Trabalho\Razor_Pages\MyRazorApp\obj\Debug\net6.0\PubTmp\Out\MyRazorApp.exe
+C:\Users\fe-cl\OneDrive\Área de Trabalho\Razor_Pages\MyRazorApp\obj\Debug\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\fe-cl\OneDrive\Área de Trabalho\Razor_Pages\MyRazorApp\obj\Debug\net6.0\PubTmp\Out\appsettings.json
+C:\Users\fe-cl\OneDrive\Área de Trabalho\Razor_Pages\MyRazorApp\obj\Debug\net6.0\PubTmp\Out\MyRazorApp.dll
+C:\Users\fe-cl\OneDrive\Área de Trabalho\Razor_Pages\MyRazorApp\obj\Debug\net6.0\PubTmp\Out\MyRazorApp.deps.json
+C:\Users\fe-cl\OneDrive\Área de Trabalho\Razor_Pages\MyRazorApp\obj\Debug\net6.0\PubTmp\Out\MyRazorApp.runtimeconfig.json
+C:\Users\fe-cl\OneDrive\Área de Trabalho\Razor_Pages\MyRazorApp\obj\Debug\net6.0\PubTmp\Out\MyRazorApp.pdb
